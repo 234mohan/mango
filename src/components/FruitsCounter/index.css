@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffd569;
+  height: 100vh;
+  width: 100vw;
+}
+.container1 {
+  background-color: #ffffff;
+  margin: 20px;
+}
+.button {
+  background-color: #007bff;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+  outline: none;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
